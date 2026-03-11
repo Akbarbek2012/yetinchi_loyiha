@@ -1,0 +1,343 @@
+.div0{
+    text-align: center;
+    border: 2px solid black;
+}
+.h1{
+    display: inline-block;
+}
+.h2 {
+    background-color: blanchedalmond;
+}
+.h3 {
+    background-color: lightblue;
+}
+.h4 {
+    background-color: lightgreen;
+}
+.h5 {
+    background-color: lightyellow;
+}
+.h6 {
+    background-color: lightcoral;
+}
+.h7 {
+    background-color: lightpink;
+}
+.h8 {
+    background-color: lightsalmon;
+}
+.h9 {
+    background-color: lightseagreen;
+}
+.h10 {
+    background-color: lightskyblue;
+}
+.h11 {
+    background-color: lightsteelblue;
+}
+.div1 {
+    text-align: center;
+    border: 2px solid blue;
+}
+.h12 {
+    background-color: lightcyan;
+}
+.h13 {
+    background-color: lightgoldenrodyellow;
+}
+.h14 {
+    background-color: rgb(172, 255, 183);
+}
+.h15 {
+    background-color: rgb(0, 204, 255);
+}
+.h16 {
+    background-color: rgb(128, 0, 128);
+}
+.h17 {
+    background-color: rgb(255, 192, 203);
+}
+.h18 {
+    background-color: rgb(255, 255, 0);
+}
+.h19 {
+    background-color: rgb(255, 182, 193);
+}
+.h20 {
+    background-color: rgb(255, 0, 0);
+}
+.h21 {
+    background-color: rgb(0, 255, 0);
+}
+.div2 {
+    text-align: center;
+    border: 2px solid red;
+}
+.h22 {
+    background-color: rgb(0, 0, 255);
+}
+.h23 {
+    background-color: rgb(255, 0, 255);
+}
+.h24 {
+    background-color: rgb(172, 255, 183);
+}
+.h25 {
+    background-color: rgb(0, 204, 255);
+}
+.h26 {
+    background-color: rgb(128, 0, 128);
+}
+.h27 {
+    background-color: rgb(255, 192, 203);
+}
+.h28 {
+    background-color: rgb(255, 255, 0);
+}
+.h29 {
+    background-color: rgb(255, 182, 193);
+}
+.h30 {
+    background-color: rgb(255, 0, 0);
+}
+.h31 {
+    background-color: rgb(0, 255, 0);
+}
+.div3 {
+    text-align: center;
+    border: 2px solid green;
+}
+.h32 {
+    background-color: rgb(0, 0, 255);
+}
+.h33 {
+    background-color: rgb(255, 0, 255);
+}
+.h34 {
+    background-color: rgb(172, 255, 183);
+}
+.h35 {
+    background-color: rgb(0, 204, 255);
+}
+.h36 {
+    background-color: rgb(128, 0, 128);
+}
+.h37 {
+    background-color: rgb(255, 192, 203);
+}
+.h38 {
+    background-color: rgb(255, 255, 0);
+}
+.h39 {
+    background-color: rgb(255, 182, 193);
+}
+.h40 {
+    background-color: rgb(255, 0, 0);
+}
+.h41 {
+    background-color: rgb(0, 255, 0);
+}
+.div4 {
+    text-align: center;
+    border: 2px solid yellow;
+}
+.h42 {
+    background-color: rgb(0, 0, 255);
+}
+.h43 {
+    background-color: rgb(255, 0, 255);
+}
+.h44 {
+    background-color: rgb(172, 255, 183);
+}
+.h45 {
+    background-color: rgb(0, 204, 255);
+}
+.h46 {
+    background-color: rgb(128, 0, 128);
+}
+.h47 {
+    background-color: rgb(255, 192, 203);
+}
+.h48 {
+    background-color: rgb(255, 255, 0);
+}
+.h49 {
+    background-color: rgb(255, 182, 193);
+}
+.h50 {
+    background-color: rgb(255, 0, 0);
+}
+.h51 {
+    background-color: rgb(0, 255, 0);
+}
+.div5 {
+    text-align: center;
+    border: 2px solid orange;
+}
+.h52 {
+    background-color: rgb(0, 0, 255);
+}
+.h53 {
+    background-color: rgb(255, 0, 255);
+}
+.h54 {
+    background-color: rgb(172, 255, 183);
+}
+.h55 {
+    background-color: rgb(0, 204, 255);
+}
+.h56 {
+    background-color: rgb(128, 0, 128);
+}
+.h57 {
+    background-color: rgb(255, 192, 203);
+}
+.h58 {
+    background-color: rgb(255, 255, 0);
+}
+.h59 {
+    background-color: rgb(255, 182, 193);
+}
+.h60 {
+    background-color: rgb(255, 0, 0);
+}
+.h61 {
+    background-color: rgb(0, 255, 0);
+}
+.div6 {
+    text-align: center;
+    border: 2px solid purple;
+}
+.h62 {
+    background-color: rgb(0, 0, 255);
+}
+.h63 {
+    background-color: rgb(255, 0, 255);
+}
+.h64 {
+    background-color: rgb(172, 255, 183);
+}
+.h65 {
+    background-color: rgb(0, 204, 255);
+}
+.h66 {
+    background-color: rgb(128, 0, 128);
+}
+.h67 {
+    background-color: rgb(255, 192, 203);
+}
+.h68 {
+    background-color: rgb(255, 255, 0);
+}
+.h69 {
+    background-color: rgb(255, 182, 193);
+}
+.h70 {
+    background-color: rgb(255, 0, 0);
+}
+.h71 {
+    background-color: rgb(0, 255, 0);
+}
+.div7 {
+    text-align: center;
+    border: 2px solid brown;
+}
+.h72 {
+    background-color: rgb(0, 0, 255);
+}
+.h73 {
+    background-color: rgb(255, 0, 255);
+}
+.h74 {
+    background-color: rgb(172, 255, 183);
+}
+.h75 {
+    background-color: rgb(0, 204, 255);
+}
+.h76 {
+    background-color: rgb(128, 0, 128);
+}
+.h77 {
+    background-color: rgb(255, 192, 203);
+}
+.h78 {
+    background-color: rgb(255, 255, 0);
+}
+.h79 {
+    background-color: rgb(255, 182, 193);
+}
+.h80 {
+    background-color: rgb(255, 0, 0);
+}
+.h81 {
+    background-color: rgb(0, 255, 0);
+}
+.div8 {
+    text-align: center;
+    border: 2px solid black;
+}
+.h82 {
+    background-color: rgb(0, 0, 255);
+}
+.h83 {
+    background-color: rgb(255, 0, 255);
+}
+.h84 {
+    background-color: rgb(172, 255, 183);
+}
+.h85 {
+    background-color: rgb(0, 204, 255);
+}
+.h86 {
+    background-color: rgb(128, 0, 128);
+}
+.h87 {
+    background-color: rgb(255, 192, 203);
+}
+.h88 {
+    background-color: rgb(255, 255, 0);
+}
+.h89 {
+    background-color: rgb(255, 182, 193);
+}
+.h90 {
+    background-color: rgb(255, 0, 0);
+}
+.h91 {
+    background-color: rgb(0, 255, 0);
+}
+.div9 {
+    text-align: center;
+    border: 2px solid gray;
+}
+.h92 {
+    background-color: rgb(0, 0, 255);
+}
+.h93 {
+    background-color: rgb(255, 0, 255);
+}
+.h94 {
+    background-color: rgb(172, 255, 183);
+}
+.h95 {
+    background-color: rgb(0, 204, 255);
+}
+.h96 {
+    background-color: rgb(128, 0, 128);
+}
+.h97 {
+    background-color: rgb(255, 192, 203);
+}
+.h98 {
+    background-color: rgb(255, 255, 0);
+}
+.h99 {
+    background-color: rgb(255, 182, 193);
+}
+.h100 {
+    background-color: rgb(255, 0, 0);
+}
+.h101 {
+    background-color: rgb(0, 255, 0);
+}
